@@ -88,7 +88,7 @@ DATABASES = {
 
 LANGUAGE_CODE = 'en-us'
 
-TIME_ZONE = '   America/Ensenada        −08:00  −07:00  Link to America/Tijuana'
+TIME_ZONE = 'America/Tijuana'
 
 USE_I18N = True
 
